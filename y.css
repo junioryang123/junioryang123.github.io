@@ -1,0 +1,39 @@
+.navbar{
+	width:100%;
+	height:40px;
+	background:#96C;
+	margin-top:25px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+.d1{
+	width:1008px;
+	height:40px;
+	margin:0 auto;
+}
+.d1 ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.d1 ul li{
+	float:left;
+}
+.d1 li a{
+	padding-left:15px;
+	padding-right:15px;
+	display:block;
+	color:white;
+	line-height:35px;
+	text-decoration:none;
+}
+.d1 li a:hover{
+	background:#30C;
+}
+.d{
+	width:120px;
+	margin:10px auto;
+}
+.d{
+	border:1px dotted pink;
+	cursor:pointer;
+}
